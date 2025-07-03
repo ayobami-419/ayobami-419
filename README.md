@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayobami-419
-- 👀 I’m interested in aerospace engineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
